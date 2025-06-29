@@ -1,7 +1,3 @@
-## test
+# LibreWolf NixOS issue
 
-
-
-<video width="320" height="240" controls>
-  <source src="librewolf_search_Flicker.mp4" type="video/mp4">
-</video>
+[Screencast_20250629_104431.webm](https://github.com/user-attachments/assets/940bd1d7-61ad-499e-aaf1-110479663578)
